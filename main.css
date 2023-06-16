@@ -59,7 +59,7 @@ p{
 .membro{
     background-color:rgb(244, 253, 253) ;
     border-radius: 5px;
-    width: 25%;
+    width: 20%;
     text-align: center;
     gap: 5px; 
     display: grid;
@@ -72,8 +72,7 @@ p{
 
 .membro img{
     position: absolute;
-    top: 0;
-    left: 15%;
+    top: 5px;
 }
 
 .membro .info{
@@ -85,7 +84,8 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5px;
+    gap: 10px;
+    width:100%
 }
 
 .membros p{
